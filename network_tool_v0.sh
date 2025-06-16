@@ -5,7 +5,7 @@ echo "1) Check Network Interface Information
 3) Port Scan with Nmap
 4) Display Routing Table
 5) Traceroute to Host
-6) Exit"
+6) Exit"uiyui
 
 echo "choose an option: "
 
